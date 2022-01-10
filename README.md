@@ -48,3 +48,5 @@ Here are some ideas to get you started:
   <a href="mailto:bokiri16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 
+<br>
+<br>
